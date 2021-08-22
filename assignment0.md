@@ -1,4 +1,4 @@
-[<img width=900 src="https://github.com/YashBangera7/FDS_DSCI-633_Fall2021/blob/main/images/image1.jpg">](https://github.com/YashBangera7/FDS_DSCI-633_Fall2021/Readme.MD)   
+[<img width=900 src="https://github.com/YashBangera7/FDS_DSCI-633_Fall2021/blob/main/images/image1.jpg">](https://github.com/YashBangera7/FDS_DSCI-633_Fall2021/blob/main/README.md)   
 
 
 ## Python Basics
@@ -29,22 +29,22 @@
 
 ### 1. Create a new PRIVATE repository called **FDS_DSCI-633_Fall2021** under your Github account.
  - (1) Click on the **new** button:
- ![](https://github.com/YashBangera7/FDS_DSCI-633_Fall2021/blob/main/images/image2.png)
+ ![](https://github.com/YashBangera7/FDS_DSCI-633_Fall2021/blob/main/images/image2.PNG)
  
  - (2) Initiate the new private repo:
- ![](https://github.com/YashBangera7/FDS_DSCI-633_Fall2021/blob/main/images/image3.png)
+ ![](https://github.com/YashBangera7/FDS_DSCI-633_Fall2021/blob/main/images/image3.PNG)
 
  - (3) Click on Settings:
- ![](https://github.com/YashBangera7/FDS_DSCI-633_Fall2021/blob/main/images/image4.png)
+ ![](https://github.com/YashBangera7/FDS_DSCI-633_Fall2021/blob/main/images/image4.PNG)
 
  - (4) Click on Manage Access:
- ![](https://github.com/YashBangera7/FDS_DSCI-633_Fall2021/blob/main/images/image5.png)
+ ![](https://github.com/YashBangera7/FDS_DSCI-633_Fall2021/blob/main/images/image5.PNG)
  
  - (5) Invite the instructor and the TA as collaborators (GitHub ID: **uberize, YashBangera7**):
- ![](https://github.com/YashBangera7/FDS_DSCI-633_Fall2021/blob/main/images/image6.png)
+ ![](https://github.com/YashBangera7/FDS_DSCI-633_Fall2021/blob/main/images/image6.PNG)
 
 ### 2. Clone the **DSCI-633** repo to your local machine.
- ![](https://github.com/YashBangera7/FDS_DSCI-633_Fall2021/blob/main/images/image7.png)
+ ![](https://github.com/YashBangera7/FDS_DSCI-633_Fall2021/blob/main/images/image7.PNG)
  ```
  git clone THE-COPIED-URL
  ```
