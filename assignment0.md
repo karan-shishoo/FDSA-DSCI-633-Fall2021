@@ -31,7 +31,7 @@
 
 ##### 1.2 Python Machine Learning Tutorial: https://www.youtube.com/watch?v=7eh4d6sabA0 
 
->**_NOTE:_** : This tutorial is if you want to learn how to create and work with a basic ML pipeline. If you want, you could watch. It is not really necessary! 
+>**_NOTE_** : This tutorial is if you want to learn how to create and work with a basic ML pipeline. If you want, you could watch. It is not really necessary! 
   
 ## Github Basics
 
@@ -40,7 +40,7 @@
 
 ### 1. Create a new PRIVATE repository called **FDSA-DSCI-633-Fall2021** under your Github account.
 
->**_NOTE:_** : The screenshots here show FDS-DSCI-633-Fall2021, but be sure to name it as above. 
+>**_NOTE_** : The screenshots here show FDS-DSCI-633-Fall2021, but be sure to name it as above. 
 
  - (1) Click on the **new** button:
  ![](https://github.com/YashBangera7/FDSA-DSCI-633-Fall2021/blob/main/images/image2.PNG)
