@@ -40,7 +40,7 @@
 
 ### 1. Create a new PRIVATE repository called **FDS-DSCI-633-Fall2021** under your Github account.
 
->**_NOTE_** : The screenshots here show FDS-DSCI-633-Fall2021, but be sure to name it as above. 
+>**_NOTE_** : The screenshots here show FDS_DSCI-633_Fall2021, but be sure to name it as above. 
 
  - (1) Click on the **new** button:
  ![](https://github.com/YashBangera7/FDS_DSCI-633_Fall2021/blob/main/images/image2.PNG)
