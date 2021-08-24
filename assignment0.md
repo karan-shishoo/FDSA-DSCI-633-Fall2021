@@ -39,6 +39,9 @@
  - Skip this step if you already have one.
 
 ### 1. Create a new PRIVATE repository called **FDSA-DSCI-633-Fall2021** under your Github account.
+
+>**_NOTE:_** : The screenshots here show FDS-DSCI-633-Fall2021, but be sure to name it as above. 
+
  - (1) Click on the **new** button:
  ![](https://github.com/YashBangera7/FDSA-DSCI-633-Fall2021/blob/main/images/image2.PNG)
  
