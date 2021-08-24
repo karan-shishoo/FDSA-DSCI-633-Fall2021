@@ -1,4 +1,4 @@
-[<img width=900 src="https://github.com/YashBangera7/FDSA-DSCI-633-Fall2021/blob/main/images/image1.jpg">](https://github.com/YashBangera7/FDSA-DSCI-633-Fall2021/blob/main/README.md)   
+[<img width=900 src="https://github.com/YashBangera7/FDS_DSCI-633_Fall2021/blob/main/images/image1.jpg">](https://github.com/YashBangera7/FDS_DSCI-633_Fall2021/blob/main/README.md)   
 
 
 ## Python Basics
@@ -38,27 +38,27 @@
 ### 0. Install [Git](https://git-scm.com/downloads) and create your [Github](https://github.com/) account.
  - Skip this step if you already have one.
 
-### 1. Create a new PRIVATE repository called **FDSA-DSCI-633-Fall2021** under your Github account.
+### 1. Create a new PRIVATE repository called **FDS-DSCI-633-Fall2021** under your Github account.
 
 >**_NOTE_** : The screenshots here show FDS-DSCI-633-Fall2021, but be sure to name it as above. 
 
  - (1) Click on the **new** button:
- ![](https://github.com/YashBangera7/FDSA-DSCI-633-Fall2021/blob/main/images/image2.PNG)
+ ![](https://github.com/YashBangera7/FDS_DSCI-633_Fall2021/blob/main/images/image2.PNG)
  
  - (2) Initiate the new private repo:
- ![](https://github.com/YashBangera7/FDSA-DSCI-633-Fall2021/blob/main/images/image3.PNG)
+ ![](https://github.com/YashBangera7/FDS_DSCI-633_Fall2021/blob/main/images/image3.PNG)
 
  - (3) Click on Settings:
- ![](https://github.com/YashBangera7/FDSA-DSCI-633-Fall2021/blob/main/images/image4.PNG)
+ ![](https://github.com/YashBangera7/FDS_DSCI-633_Fall2021/blob/main/images/image4.PNG)
 
  - (4) Click on Manage Access:
- ![](https://github.com/YashBangera7/FDSA-DSCI-633-Fall2021/blob/main/images/image5.PNG)
+ ![](https://github.com/YashBangera7/FDS_DSCI-633_Fall2021/blob/main/images/image5.PNG)
  
  - (5) Invite the instructor and the TA as collaborators (GitHub ID: **uberize, YashBangera7**):
- ![](https://github.com/YashBangera7/FDSA-DSCI-633-Fall2021/blob/main/images/image6.PNG)
+ ![](https://github.com/YashBangera7/FDS_DSCI-633_Fall2021/blob/main/images/image6.PNG)
 
 ### 2. Clone the **DSCI-633** repo to your local machine.
- ![](https://github.com/YashBangera7/FDSA-DSCI-633-Fall2021/blob/main/images/image7.PNG)
+ ![](https://github.com/YashBangera7/FDS_DSCI-633_Fall2021/blob/main/images/image7.PNG)
  ```
  git clone THE-COPIED-URL
  ```
@@ -73,17 +73,17 @@
  - When running this command, the first time you pull or push from the remote repository, you'll get asked about the username and your token (NOT Password!). Afterwards, for consequent communications with the remote repository you don't have to provide the username and password.
 
 ### 4. Working with a github repo.
- - (1) Go to the local directory of the **FDSA-DSCI-633-Fall2021** repo.
+ - (1) Go to the local directory of the **FDS_DSCI-633_Fall2021** repo.
  - (2) Pull from Github so that the content on your local machine is updated with the remote server of Github:
  ```
- FDSA-DSCI-633-Fall2021> git pull
+ FDS_DSCI-633_Fall2021> git pull
  ```
- - (3) Work on your local machine (add/remove/edit files under FDSA-DSCI-633-Fall2021/).
+ - (3) Work on your local machine (add/remove/edit files under FDS_DSCI-633_Fall2021/).
  - (4) Commit to the remote server of Github (upload local changes).
  ```
- FDSA-DSCI-633-Fall2021> git add .
- FDSA-DSCI-633-Fall2021> git commit -m "YOUR COMMIT MESSAGE"
- FDSA-DSCI-633-Fall2021> git push
+ FDS_DSCI-633_Fall2021> git add .
+ FDS_DSCI-633_Fall2021> git commit -m "YOUR COMMIT MESSAGE"
+ FDS_DSCI-633_Fall2021> git push
  ```
  
  ### 5. Add your information to [Google sheet](https://docs.google.com/spreadsheets/d/1q7tw0On2aCCHZEuJ8KAYOgad2yPxS8U1aWb81jsrU0k/edit?usp=sharing)
