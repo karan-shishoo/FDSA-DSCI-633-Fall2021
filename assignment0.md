@@ -23,7 +23,7 @@
  
 ## Jupyter Notebook Basics
 
-#### 0. Learn the basics of Jupyter Notebook on [TutorialsPoint](https://www.tutorialspoint.com/jupyter/jupyter_notebook_introduction.htm) as well as check the tutorial by George Seif on [this article] ( https://towardsdatascience.com/a-beginners-tutorial-to-jupyter-notebooks-1b2f8705888a)
+#### 0. Learn the basics of Jupyter Notebook on [TutorialsPoint](https://www.tutorialspoint.com/jupyter/jupyter_notebook_introduction.htm) as well as check the tutorial by George Seif on this [article] ( https://towardsdatascience.com/a-beginners-tutorial-to-jupyter-notebooks-1b2f8705888a)
 
 #### 1. Also, check the youtube tutorials like: 
 
