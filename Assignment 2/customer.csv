@@ -1,0 +1,21 @@
+﻿Cust ID,Gender,Car Type,Shirt Size,Income,Class
+1,M,Family,Small,70,C0
+2,M,Sports,Medium,110,C0
+3,M,Sports,Medium,80,C0
+4,M,Sports,Large,80,C0
+5,M,Sports,Extra Large,200,C0
+6,M,Sports,Extra Large,150,C0
+7,F,Sports,Small,130,C0
+8,F,Sports,Small,90,C0
+9,F,Sports,Medium,100,C0
+10,F,Luxury,Large,120,C0
+11,M,Family,Large,150,C1
+12,M,Family,Extra Large,140,C1
+13,M,Family,Medium,90,C1
+14,M,Luxury,Extra Large,200,C1
+15,F,Luxury,Small,190,C1
+16,F,Luxury,Small,130,C1
+17,F,Luxury,Medium,150,C1
+18,F,Luxury,Medium,180,C1
+19,F,Luxury,Medium,80,C1
+20,F,Luxury,Large,190,C1
